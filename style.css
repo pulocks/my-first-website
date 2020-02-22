@@ -49,6 +49,11 @@ section{
     font-weight: 700;
 }
 
+.link-button:hover{
+    color: green;
+    background-image: linear-gradient(red, pink);
+}
+
 img{
     height: 500px;
     width: 250px;
